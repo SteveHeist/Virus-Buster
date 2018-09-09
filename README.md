@@ -1,5 +1,5 @@
 # Virus-Buster
-Snake-style game from FBLA 2016 - built in Python.
+Snake-style game built in Python.
 
 # Dependencies
 Pygame
